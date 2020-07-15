@@ -1,0 +1,113 @@
+body {
+    background: lightgrey;
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX23310792.jpg");  
+}
+
+#header-container {
+    text-align: center;
+}
+
+#header-container h1 {
+    color: #d9d9d9;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+#title {
+    
+    position: relative;
+    top: 20px;
+}
+
+#header-container p {
+    color: white;
+    font-size: 25px;
+}
+
+#survey-container {
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+    width: 600px;
+    margin: 0 auto;
+    background: #808080;
+    padding: 10px;
+    opacity: 0.90;
+}
+
+#survey-form {
+    font-size: 20px;
+
+}
+
+#name {
+    width: 500px;
+    border-radius: 10px;
+    height: 30px;
+    padding: 5px;
+}
+
+#email {
+    width: 500px;
+    border-radius: 10px;
+    height: 30px;
+    padding: 5px;
+}
+
+#number {
+    width: 500px;
+    border-radius: 10px;
+    height: 30px;
+    padding: 5px;
+}
+
+#dropdown {
+    width: 500px;
+    border-radius: 10px;
+    height: 40px;
+    padding: 5px;
+    color: white;
+}
+
+#number {
+    width: 500px;
+    border-radius: 10px;
+    height: 30px;
+    padding: 5px;
+}
+
+
+#feature {
+    width: 500px;
+    border-radius: 10px;
+    height: 40px;
+    padding: 5px;
+}
+
+#suggestion-box {
+    height: 100px;
+    width: 500px;
+    text-align: center;
+}
+
+#submit {
+    width: 500px;
+    background-color:#999999;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin: 0 auto;
+    height: 40px;
+    margin-top: 10px;
+}
+
+p {
+    color: white;
+}
+
+#recommendation-container {
+    color: white;
+}
+
+#feedback-container {
+    color:white;
+}
